@@ -152,7 +152,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="example.cpp" />
+    <ClCompile Include="functions.cpp" />
+    <ClCompile Include="fuzzy.cpp" />
+    <ClCompile Include="genetic.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="rule.cpp" />
+    <ClCompile Include="triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="genetic.h" />
